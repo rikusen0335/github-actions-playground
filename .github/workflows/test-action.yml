@@ -18,5 +18,3 @@ jobs:
 
       - name: Prepare Node.js and Yarn
         uses: actions/setup-node@v3
-        with:
-          node-version-file: ".node-version"
